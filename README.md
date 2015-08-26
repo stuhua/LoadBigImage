@@ -2,7 +2,7 @@
 
 ## 预览
 
-<img src="/image/show.png"/>
+<img src="/show.png"/>
 
 ## 用来做什么？
 
