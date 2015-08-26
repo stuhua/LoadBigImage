@@ -2,7 +2,7 @@
 
 ## 预览
 
-<img src="/show.png"/>
+<img src="/show.png" width="320px" height="640"/>
 
 ## 用来做什么？
 
